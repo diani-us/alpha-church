@@ -1,6 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Alpha Church"
+theme = "alpha-church"
+themesDir = "../.."
 
 ignoreFiles = [".*"]
 disableKinds = ["section","taxonomy","taxonomyTerm","RSS","404","sitemap"]
